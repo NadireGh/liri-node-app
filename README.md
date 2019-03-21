@@ -4,7 +4,7 @@
 
 #### Use Liri to look up your favorite artist, song, or movie and get the information you need.
 
-## Technologies Used
+### Technologies Used
 * Node.js
 * JavaScript
 * BansinTown API (via bandsintown npm module)
@@ -19,7 +19,7 @@
 * node liri.js movie-this < movie name here>
 * node liri.js do-what-it-says
 
-## API Credential sites
+### API Credential sites
 * Spotify: https://developer.spotify.com/my-applications/
 * Bandsintown: https://rest.bandsintown.com/artists/
 * OMDb API: http://www.omdbapi.com/apikey.aspx
