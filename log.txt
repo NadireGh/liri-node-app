@@ -127,3 +127,30 @@ Song Name: POWER
 Preview Link: null
 Album: My Beautiful Dark Twisted Fantasy
 ---------------------------------
+Title: Gladiator
+Year: 2000
+IMDB Rating: 8.5/10
+Rotten Tomatoes Rating: 76%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+---------------------------------
+Title: Gladiator
+Year: 2000
+IMDB Rating: 8.5/10
+Rotten Tomatoes Rating: 76%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+---------------------------------
+Title: Sorry to Bother You
+Year: 2018
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English
+Plot: In an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.
+Actors: LaKeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick
+---------------------------------

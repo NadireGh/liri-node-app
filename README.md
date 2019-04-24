@@ -23,3 +23,11 @@
 * Spotify: https://developer.spotify.com/my-applications/
 * Bandsintown: https://rest.bandsintown.com/artists/
 * OMDb API: http://www.omdbapi.com/apikey.aspx
+
+
+### ScreenShots
+
+![alt text](Image/ReadMe1.png )
+
+
+![alt text](Image/ReadMe2.png )
